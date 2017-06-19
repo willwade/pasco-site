@@ -37,7 +37,7 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
-    title = "Talk simply."
+    title = "<img src='/img/icon.png' width='200' height='200'/><br />Talk simply."
     subtitle = 'A multi-platform app that helps you communicate in phrases using nothing more than a switch. Hearing only required.'
 
   # Intro section
