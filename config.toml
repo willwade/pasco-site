@@ -83,7 +83,7 @@ theme = "hugo-elate-theme"
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "work_1.jpg"
+      img = "app-screenshots/3.5-inchScreenshot1.png"
       alt = "Image2"
       title = "Project 1"
       subtitle = "Branding"
