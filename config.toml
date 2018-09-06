@@ -232,8 +232,7 @@ theme = "hugo-elate-theme"
     enable = true
     map = true
     title = "Get in touch"
-    description = "Pasco is made by the AceCentre. We are a registered charity providing support for people with complex communications difficulties. We offer assessment, training and information services across England, with a focus on Augmentative and Alternative Communication (AAC) and Assistive Technology (AT), delivered by our multi-disciplinary team of specialist teachers, occupational therapists, speech & language therapists with the support of technical and administrative staff.
-We believe everyone should be given the opportunity and the tools they need to fulfil their potential; we therefore lobby for change in statutory policy as well as working directly with people who need our support."
+    description = "Pasco is made by the AceCentre. We are a registered charity providing support for people with complex communications difficulties. We offer assessment, training and information services across England, with a focus on Augmentative and Alternative Communication (AAC) and Assistive Technology (AT), delivered by our multi-disciplinary team of specialist teachers, occupational therapists, speech & language therapists with the support of technical and administrative staff. \n We believe everyone should be given the opportunity and the tools they need to fulfil their potential; we therefore lobby for change in statutory policy as well as working directly with people who need our support."
 
     # Available icons: http://simplelineicons.com/
     details = [
