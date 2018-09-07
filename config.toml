@@ -85,35 +85,35 @@ theme = "hugo-elate-theme"
     [[params.work.row]]
       img = "app-screenshots/3.5-inchScreenshot1.png"
       alt = "Image2"
-      title = "Project 1"
+      title = "pasco is a communication app for those with a physical and visual difficulty"
       subtitle = "Branding"
 
     [[params.work.row]]
-      img = "work_2.jpg"
+      img = "app-screenshots/3.5-inchScreenshot2.png"
       alt = "Image2"
       title = "Project 2"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_3.jpg"
+      img = "app-screenshots/3.5-inchScreenshot3.png"
       alt = "Image3"
       title = "Project 3"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_4.jpg"
+      img = "app-screenshots/3.5-inchScreenshot4.png"
       alt = "Image4"
       title = "Project 4"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_5.jpg"
+      img = "app-screenshots/3.5-inchScreenshot5.png"
       alt = "Image5"
       title = "Project 5"
       subtitle = "Design"
 
     [[params.work.row]]
-      img = "work_6.jpg"
+      img = "app-screenshots/3.5-inchScreenshot1.png"
       alt = "Image6"
       title = "Project 6"
       subtitle = "Design"
